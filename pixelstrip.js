@@ -45,6 +45,6 @@ module.exports = function(stripId, numPixels) {
     }
 
     this.getPixel = function(idx){
-        return pixels[idx];
+      return pixels[idx];
     }
 }
